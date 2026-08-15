@@ -390,9 +390,9 @@ Future versions of the project could:
 
 ## 🙏 Acknowledgements
 
-This project was initially guided by a **NeuralNine portfolio-analysis tutorial**. I also referred to finance books and the official documentation for pandas, yfinance and PyFolio to understand the calculations and interpret the results.
+The idea for this project was inspired by a NeuralNine portfolio-analysis tutorial. I independently built and extended the analysis, using finance books and the official pandas, yfinance and PyFolio documentation to understand and validate the calculations.
 
-NeuralNine’s tutorial provided the foundation for the coding workflow. The selected portfolio, written explanations, findings, risk interpretations, limitations and proposed improvements reflect my own learning and analysis.
+The portfolio construction, written explanations, findings, risk interpretations, limitations and proposed improvements are based on my own implementation and analysis.
 
 ---
 
